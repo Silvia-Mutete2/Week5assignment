@@ -1,4 +1,5 @@
 # Week5assignment
+
 This repository contains a starter AI workflow for Week 5 assignment. It includes a small sample dataset, a notebook demonstrating training, simple source modules for preprocessing/training/evaluation, and a minimal FastAPI deployment example.
 Repository structure
 --------------------
@@ -38,12 +39,3 @@ Quick start
 
 	uvicorn src.deploy_api:app --reload
 
-Notes and next steps
---------------------
-
-- Replace `diagrams/workflow_diagram.png` with a proper diagram (PNG/SVG).
-- Improve preprocessing, add feature engineering and unit tests.
-- Add CI to run linting/tests and model validation steps.
-
-If you want, I can also add a tiny test harness or CLI script to train and evaluate the model automatically.
-# Week5assignment
