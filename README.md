@@ -1,4 +1,4 @@
-# Week5assignment
+# AIWorkflow
 
 This repository contains a starter AI workflow for Week 5 assignment. It includes a small sample dataset, a notebook demonstrating training, simple source modules for preprocessing/training/evaluation, and a minimal FastAPI deployment example.
 Repository structure
